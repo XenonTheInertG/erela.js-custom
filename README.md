@@ -8,7 +8,7 @@
 npm i github:XenonTheInertG/erela.js-custom
 `
 
-## Package.json:
+# Package.json:
 
 ```json
 {
@@ -19,7 +19,7 @@ npm i github:XenonTheInertG/erela.js-custom
 }
 ```
 
-## Example NightCore:
+# Example NightCore:
 ```js
 player.setFilter('filters', {
         equalizer: [
