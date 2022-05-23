@@ -46,7 +46,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@discordjs/collection": "^0.1.6",
+    "@discordjs/collection": "^0.6.0",
     "petitio": "^1.1.0",
     "ws": "^7.3.1"
   },
